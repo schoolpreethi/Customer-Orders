@@ -2,8 +2,6 @@
 
 -- SELECT * FROM customerorders;
 
--- ALTER TABLE customerorders CHANGE `ï»¿Id` Id INT;
-
 -- 1. View all orders
 -- SELECT * FROM customerorders;
 
